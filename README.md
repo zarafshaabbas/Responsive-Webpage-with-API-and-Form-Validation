@@ -128,3 +128,10 @@ Frontend project created for learning HTML, CSS, JavaScript, API integration, an
 ## 📜 License
 
 This project is free to use for educational purposes.
+
+---
+
+## Output
+
+<img width="1002" height="461" alt="image" src="https://github.com/user-attachments/assets/acc2cf67-e97a-447e-827c-4268c5db7882" />
+
