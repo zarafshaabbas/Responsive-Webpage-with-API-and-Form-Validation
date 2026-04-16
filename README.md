@@ -131,7 +131,12 @@ This project is free to use for educational purposes.
 
 ---
 
-## Output
+## Output 1
 
-<img width="1002" height="461" alt="image" src="https://github.com/user-attachments/assets/acc2cf67-e97a-447e-827c-4268c5db7882" />
+<img width="1885" height="912" alt="Screenshot 2026-04-16 162137" src="https://github.com/user-attachments/assets/17f274d1-b8d7-4f41-98c9-e2a55b71a75c" />
 
+---
+
+## Output 2
+
+<img width="1888" height="910" alt="Screenshot 2026-04-16 162130" src="https://github.com/user-attachments/assets/0494ad13-d51b-4415-ac95-d58eba9b75dc" />
