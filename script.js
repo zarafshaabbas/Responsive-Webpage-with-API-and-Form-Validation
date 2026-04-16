@@ -42,13 +42,12 @@ document.getElementById('contactForm').addEventListener('submit', function(e) {
     const messageError = document.getElementById('messageError');
     const successMessage = document.getElementById('successMessage');
 
-    // Reset messages
+    
     nameError.textContent = "";
     emailError.textContent = "";
     messageError.textContent = "";
     successMessage.textContent = "";
 
-    // Name validation
     if (name === "") {
         nameError.textContent = "Name is required";
         valid = false;
